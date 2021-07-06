@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://benarmstead.co.uk/molly/sitemap.xml

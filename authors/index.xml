@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Molly</title>
+    <link>https://benarmstead.co.uk/molly/authors/</link>
+      <atom:link href="https://benarmstead.co.uk/molly/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Molly.im
+Site made by Ben Armstead for the Molly project.
+https://benarmstead.co.uk/#donate</copyright>
+    <image>
+      <url>https://benarmstead.co.uk/molly/media/icon_hu242aa936a77bb508595e4abd502bc943_7952_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://benarmstead.co.uk/molly/authors/</link>
+    </image>
+    
+  </channel>
+</rss>
