@@ -7,7 +7,7 @@ New official website for the molly project, a hardened signal fork.
 - Shows users features of Molly.
 - Shows users Molly's donation links. Bitcoin, Eth, Monero, OpenCollective
 
-### Credits:
+### Contributions:
 This site was written by Ben Armstead: [benarmstead.co.uk](https://benarmstead.co.uk) for the molly project.
 
 Thanks to valldrac for all his great work in creating and maintaining Molly!
