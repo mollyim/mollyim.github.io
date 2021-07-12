@@ -1,6 +1,6 @@
 # Website for [molly.im](https://molly.im)
 
-New official website for the molly project, a hardened signal fork.
+Website for the molly project, a hardened signal fork.
 
 - Gives users a breif overview of what molly is and what it does.
 - Gives users F-Droid link and github releases link for Molly.
