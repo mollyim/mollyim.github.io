@@ -5,11 +5,11 @@
   "theme_color": "#FFFFFF",
   "background_color": "#FFFFFF",
   "icons": [{
-    "src": "/molly/media/icon_hu242aa936a77bb508595e4abd502bc943_7952_192x192_fill_lanczos_center_2.png",
+    "src": "/molly/media/icon_hub372f8bacdfbc1af3a0d87f922f701cb_20536_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/molly/media/icon_hu242aa936a77bb508595e4abd502bc943_7952_512x512_fill_lanczos_center_2.png",
+    "src": "/molly/media/icon_hub372f8bacdfbc1af3a0d87f922f701cb_20536_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
