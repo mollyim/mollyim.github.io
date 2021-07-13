@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Molly</title>
-    <link>https://benarmstead.co.uk/molly/author/molly/</link>
-      <atom:link href="https://benarmstead.co.uk/molly/author/molly/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://molly.im/author/molly/</link>
+      <atom:link href="https://molly.im/author/molly/index.xml" rel="self" type="application/rss+xml" />
     <description>Molly</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Molly.im
 Site made by Ben Armstead for the Molly project.
 https://benarmstead.co.uk/#donate</copyright>
     <image>
-      <url>https://benarmstead.co.uk/molly/author/molly/avatar_hub372f8bacdfbc1af3a0d87f922f701cb_20536_270x270_fill_lanczos_center_2.png</url>
+      <url>https://molly.im/author/molly/avatar_hub372f8bacdfbc1af3a0d87f922f701cb_20536_270x270_fill_lanczos_center_2.png</url>
       <title>Molly</title>
-      <link>https://benarmstead.co.uk/molly/author/molly/</link>
+      <link>https://molly.im/author/molly/</link>
     </image>
     
   </channel>

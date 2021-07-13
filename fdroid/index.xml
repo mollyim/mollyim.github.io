@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fdroids | Molly</title>
-    <link>https://benarmstead.co.uk/molly/fdroid/</link>
-      <atom:link href="https://benarmstead.co.uk/molly/fdroid/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://molly.im/fdroid/</link>
+      <atom:link href="https://molly.im/fdroid/index.xml" rel="self" type="application/rss+xml" />
     <description>Fdroids</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Molly.im
 Site made by Ben Armstead for the Molly project.
 https://benarmstead.co.uk/#donate</copyright>
     <image>
-      <url>https://benarmstead.co.uk/molly/media/icon_hub372f8bacdfbc1af3a0d87f922f701cb_20536_512x512_fill_lanczos_center_2.png</url>
+      <url>https://molly.im/media/icon_hub372f8bacdfbc1af3a0d87f922f701cb_20536_512x512_fill_lanczos_center_2.png</url>
       <title>Fdroids</title>
-      <link>https://benarmstead.co.uk/molly/fdroid/</link>
+      <link>https://molly.im/fdroid/</link>
     </image>
     
     <item>
       <title>Get Molly on F-Droid</title>
-      <link>https://benarmstead.co.uk/molly/fdroid/get/</link>
+      <link>https://molly.im/fdroid/get/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://benarmstead.co.uk/molly/fdroid/get/</guid>
+      <guid>https://molly.im/fdroid/get/</guid>
       <description>&lt;p&gt;F-Droid is an independent, community-sourced app store. Adding a repository to F-Droid makes the apps within it available for download and ensures that you have access to secure app updates.&lt;/p&gt;
 &lt;p&gt;Download F-Droid at &lt;strong&gt;&lt;a href=&#34;https://fdroid.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;f-droid.org&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Click on the links below with your mobile device which has F-Droid installed or scan the QR.&lt;/p&gt;
