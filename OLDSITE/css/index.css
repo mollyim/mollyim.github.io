@@ -1,0 +1,113 @@
+/***Makes picture scale to 1.3x on mouse hover**/
+img:hover {
+    position: relative;
+    z-index: 9999;
+    transform: scale(1.3);
+    transition: transform .2s;
+    margin: 0 auto;
+}
+/***Scrollbar start***/
+* {
+    scrollbar-color: #ccc #7a57ee;
+}
+
+/*Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+    width: 12px;
+}
+
+*::-webkit-scrollbar-track {
+    background: #7a57ee;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+}
+/***Scrollbar end***/
+
+body {
+    color: white;
+    background: #7a57ee;
+    /*molly background #7a57ee*/
+    text-align: center;
+
+    font-family:monospace;
+    font-size: 120%;
+}
+
+.github-title {
+    width: 100%;
+    text-align: left;
+}
+
+a:link {
+    color: darkgrey;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: grey;
+}
+
+a:visited {
+  color: darkgrey;
+}
+
+hr {
+    width:50%;
+    border-color: #ccc;
+    background-color: #ccc;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    max-width: 600px;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+.button {
+    border: none;
+    color: white;
+    background-color: #7a67ee;
+
+    padding: 15px 35px;
+    text-align: center;
+
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.about {
+    display: inline-block;
+    text-align: left;
+    max-width: 800px;
+    margin:0 auto;
+}
+
+.center-table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.credits-footer {
+    width: 100%;
+    left: 0;
+    height: 150px;
+    color: white;
+    background-color: #1d2021;
+    text-align: center;
+    position: absolute;
+}
