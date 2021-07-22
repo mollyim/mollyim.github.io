@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Molly</title>
+    <link>https://benarmstead.co.uk/molly/publication_types/</link>
+      <atom:link href="https://benarmstead.co.uk/molly/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Molly.im
+Site made by Ben Armstead for the Molly project.
+https://benarmstead.co.uk/#donate</copyright>
+    <image>
+      <url>https://benarmstead.co.uk/molly/media/icon_hub372f8bacdfbc1af3a0d87f922f701cb_20536_512x512_fill_lanczos_center_2.png</url>
+      <title>Publication_types</title>
+      <link>https://benarmstead.co.uk/molly/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>
