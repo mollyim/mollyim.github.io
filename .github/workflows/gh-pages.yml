@@ -18,7 +18,7 @@ jobs:
       - name: Hugo-Test
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.82'
+          hugo-version: 0.82
           # extended: true
 
       - name: Build
