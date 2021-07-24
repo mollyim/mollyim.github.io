@@ -15,7 +15,7 @@ jobs:
           submodules: false
           fetch-depth: 0
           
-      - name: Hugo-Test
+      - name: Test
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
