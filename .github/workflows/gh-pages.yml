@@ -1,33 +1,22 @@
-name: github pages
-
+name: Push to GitHub Pages on push to master
 on:
   push:
     branches:
       - master
-  pull_request:
 
 jobs:
-  deploy:
-    runs-on: ubuntu-20.04
+  build:
+    name: Deploy
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        with:
-          submodules: true
-          fetch-depth: 0
-          
-      - name: Test
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.86.0'
-          extended: true
+      - name: Checkout master
+        uses: actions/checkout@v1
 
-      - name: Build
-        run: hugo --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-
+      - name: Deploy the site
+        uses: benmatselby/hugo-deploy-gh-pages@master
+        env:
+          HUGO_VERSION: 0.83.1
+          TARGET_REPO: benmatselby/benmatselby.github.io
+          TARGET_BRANCH: master
+          TOKEN: ${{ secrets.TOKEN }}
+          HUGO_ARGS: '-t academic'
