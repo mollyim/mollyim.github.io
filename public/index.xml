@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molly</title>
+    <link>https://benarmstead.github.io/mollyim.github.io/</link>
+      <atom:link href="https://benarmstead.github.io/mollyim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Molly</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Molly.im
+Site made by Ben Armstead for the Molly project.
+https://benarmstead.co.uk/#donate</copyright>
+    <image>
+      <url>https://benarmstead.github.io/mollyim.github.io/media/icon_hub372f8bacdfbc1af3a0d87f922f701cb_20536_512x512_fill_lanczos_center_3.png</url>
+      <title>Molly</title>
+      <link>https://benarmstead.github.io/mollyim.github.io/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://benarmstead.github.io/mollyim.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benarmstead.github.io/mollyim.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitcoin</title>
+      <link>https://benarmstead.github.io/mollyim.github.io/project/bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benarmstead.github.io/mollyim.github.io/project/bitcoin/</guid>
+      <description>&lt;p&gt;&lt;code&gt;3Fux1BgWtUS3GrT5d7Jva4aaRon7L3dBQP&lt;/code&gt;
+&lt;img src=&#34;../../media/qr/bitcoin.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ethereum</title>
+      <link>https://benarmstead.github.io/mollyim.github.io/project/ethereum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benarmstead.github.io/mollyim.github.io/project/ethereum/</guid>
+      <description>&lt;p&gt;&lt;code&gt;0x0EbbDcba7be868858cB1E1dfF839B153DFE5e3e1&lt;/code&gt;
+&lt;img src=&#34;../../media/qr/ethereum.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Get Molly on F-Droid</title>
+      <link>https://benarmstead.github.io/mollyim.github.io/fdroid/get/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benarmstead.github.io/mollyim.github.io/fdroid/get/</guid>
+      <description>&lt;p&gt;F-Droid is an independent, community-sourced app store. Adding a repository to F-Droid makes the apps within it available for download and ensures that you have access to secure app updates.&lt;/p&gt;
+&lt;p&gt;Download F-Droid at &lt;strong&gt;&lt;a href=&#34;https://fdroid.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;f-droid.org&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Click on the links below with your mobile device which has F-Droid installed or scan the QR.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;u&gt;&lt;strong&gt;&lt;a href=&#34;fdroidrepos://molly.im/fdroid/foss/fdroid/repo?fingerprint=5198DAEF37FC23C14D5EE32305B2AF45787BD7DF2034DE33AD302BDB3446DF74&#34;&gt;Molly-FOSS&lt;/a&gt;&lt;/strong&gt;&lt;/u&gt;&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;&lt;strong&gt;&lt;a href=&#34;fdroidrepos://molly.im/fdroid/repo?fingerprint=3B7E93B1FE32C6E35A93D6DDFC5AFBEB1239A7C6EA6AF20FF33ED53CDC38B04A&#34;&gt;Molly&lt;/a&gt;&lt;/strong&gt;&lt;/u&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;qrs&#34;&gt;QR&amp;rsquo;s&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Molly-FOSS
+&lt;img src=&#34;../../media/qr/molly-foss-fdroid.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Molly
+&lt;img src=&#34;../../media/qr/molly-fdroid.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monero</title>
+      <link>https://benarmstead.github.io/mollyim.github.io/project/monero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benarmstead.github.io/mollyim.github.io/project/monero/</guid>
+      <description>&lt;p&gt;&lt;code&gt;83VC6TajQYvWpupDYZnr8VCKpv69mR5ZxRqPCjYiYDLQHjz3epcWdGFYkT5cr5G1k6JTkfx76J4WgJ5kTzXNkyv1Ga9fCGu&lt;/code&gt;
+&lt;img src=&#34;../../media/qr/monero.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Collective</title>
+      <link>https://benarmstead.github.io/mollyim.github.io/project/open-collective/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benarmstead.github.io/mollyim.github.io/project/open-collective/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://opencollective.com/mollyim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://opencollective.com/mollyim&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;script&gt;window.location.href = &#34;https://opencollective.com/mollyim&#34;;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User Manual</title>
+      <link>https://benarmstead.github.io/mollyim.github.io/manual/user/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benarmstead.github.io/mollyim.github.io/manual/user/</guid>
+      <description>&lt;h1 id=&#34;this-is-the-user-manual&#34;&gt;This is the user manual&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;test&lt;/li&gt;
+&lt;li&gt;test&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

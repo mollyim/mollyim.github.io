@@ -1,61 +1,21 @@
-# SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
 # Appearance
 
-theme: minimal
-day_night: true
+theme: molly_theme
+day_night: false
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
 site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
+local_business_type: 'Personal'
+org_name: 'Molly.im'
+description: 'A hardened version of Signal for Android.'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
-
-# Site header
+email: info@molly.im
 
 main_menu:
   enable: true
@@ -66,9 +26,7 @@ main_menu:
   show_search: true
   highlight_active_link: true
 
-# Localization
-
-date_format: 'Jan 2, 2006'
+date_format: ''
 time_format: '3:04 PM'
 address_format: en-us
 
@@ -76,7 +34,7 @@ address_format: en-us
 
 highlight: true
 highlight_languages:
-  - r
+  - C
   - python
   - latex
 math: false
@@ -100,7 +58,7 @@ show_related:
 reading_time: true
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
@@ -113,7 +71,7 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: January 2006
+  date_format:
   citation_style: apa
 projects:
   post_view: 2

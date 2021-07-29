@@ -1,34 +1,16 @@
-# Configuration of Hugo
-# Guide: https://wowchemy.com/docs/getting-started/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-title: Academic # Website name
-baseurl: 'https://academic-demo.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
-
-############################
-## LANGUAGE
-############################
+title: Molly
+baseurl: 'https://benarmstead.github.io/mollyim.github.io/' # Website URL
+copyright: '© {year} Molly.im<br><br>Site made by <a href="https://benarmstead.co.uk">Ben Armstead</a> for the Molly project.<br>https://benarmstead.co.uk/#donate'
 
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
-############################
-## MODULES
-############################
-
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
-
-############################
-## ADVANCED
-############################
-
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
@@ -46,6 +28,16 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
 imaging:
   resampleFilter: lanczos
   quality: 75
@@ -56,8 +48,6 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
-markup:
-  _merge: deep
 related:
   threshold: 80
   includeNewer: true
