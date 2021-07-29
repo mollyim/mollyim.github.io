@@ -1,25 +1,32 @@
-name: Build and Deploy
+name: Pages
 
 on:
   push:
     branches:
       - master
+  pull_request:
 
 jobs:
-  build:
-
+  deploy:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout master
-      uses: actions/checkout@v1
-      with:
-        submodules: true
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+          fetch-depth: 0
+          
+      - name: Test Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
 
-    - name: Hugo Deploy GitHub Pages
-      uses: benmatselby/hugo-deploy-gh-pages@master
-      env:
-        HUGO_VERSION: 0.68.3
-        TARGET_REPO: benarmstead/mollyim.github.io
-        TOKEN: ${{ secrets.TOKEN }}
-        TARGET_BRANCH: master
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
