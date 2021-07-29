@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://benarmstead.github.io/mollyim.github.io/sitemap.xml
