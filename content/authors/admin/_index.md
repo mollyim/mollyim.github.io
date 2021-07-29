@@ -24,7 +24,7 @@ Molly is a hardened version of **[Signal](https://github.com/signalapp/Signal-An
 
 
 ### Install
-- <u>**[Molly F-Droid Repo](/molly/fdroid/get/)**</u>
+- <u>**[Molly F-Droid Repo](fdroid/get/)**</u>
 - <u>**[Github Releases](https://github.com/mollyim/mollyim-android/releases/latest)**</u>
 
 ### Versions
@@ -34,4 +34,4 @@ Molly is a hardened version of **[Signal](https://github.com/signalapp/Signal-An
 
 - Join us on <u>**[Matrix](https://matrix.to/#/#mollyim:matrix.org)**</u>
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" width="240">](/molly/fdroid/get/)
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" width="240">](fdroid/get/)
