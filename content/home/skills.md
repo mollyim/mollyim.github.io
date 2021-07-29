@@ -1,51 +1,46 @@
 ---
 # An instance of the Featurette widget.
-
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 30
 
-title: Features
+title: Skills
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Contains no proprietary blobs, unlike Signal.
-  icon: osi
+- description: 90%
+  icon: r-project
   icon_pack: fab
-  name: Fully FOSS
-
-- description: Protects database with <u>[passphrase encryption](https://github.com/mollyim/mollyim-android/wiki/Data-Encryption-At-Rest)</u>.
-  icon: key
+  name: R
+- description: 100%
+  icon: chart-line
   icon_pack: fas
-  name: Encrypted
-
-- description: Locks down the app automatically when you are gone for a set period of time.
-  icon: lock
+  name: Statistics
+- description: 10%
+  icon: camera-retro
   icon_pack: fas
-  name: Automatic locking
+  name: Photography
 
-- description: Securely shreds sensitive data from RAM.
-  icon: lock
-  icon_pack: fas
-  name: RAM Shredding
+# Uncomment to use emoji icons.
+#- icon: ':smile:'
+#  icon_pack: emoji
+#  name: Emojiness
+#  description: 100% 
 
-- description: Automatic backups at daily or weekly interval.
-  icon: trash-restore-alt
-  icon_pack: fas
-  name: Backup scheduling
-
-- description: Supports SOCKS proxy and Tor via Orbot.
-  icon: eye
-  icon_pack: fas
-  name: Tor support
-
-
-
+# Uncomment to use custom SVG icons.
+# Place your custom SVG icon in `assets/media/icons/`.
+# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+# For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
+#- icon: your-custom-icon-name
+#  icon_pack: custom
+#  name: Surfing
+#  description: 90%
 ---

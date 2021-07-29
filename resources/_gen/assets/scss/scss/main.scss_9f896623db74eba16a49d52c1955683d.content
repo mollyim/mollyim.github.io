@@ -8926,14 +8926,6 @@ html[dir='rtl'] body {
   background-repeat: no-repeat;
   background-size: cover; }
 
-.bg-video {
-  position: absolute;
-  top: 0;
-  max-height: initial; }
-
-.bg-video.flip {
-  transform: rotateY(180deg); }
-
 /* Create a parallax-like scrolling effect on desktop browsers. */
 .parallax {
   background-attachment: fixed; }
