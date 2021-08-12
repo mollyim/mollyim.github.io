@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fdroids | Molly</title><link>/fdroid/</link><atom:link href="/fdroid/index.xml" rel="self" type="application/rss+xml"/><description>Fdroids</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Molly.im
+Site made by Ben Armstead for the Molly project.
+https://benarmstead.co.uk/#donate</copyright><image><url>/media/icon_hub372f8bacdfbc1af3a0d87f922f701cb_20536_512x512_fill_lanczos_center_3.png</url><title>Fdroids</title><link>/fdroid/</link></image><item><title>Get Molly on F-Droid</title><link>/fdroid/get/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fdroid/get/</guid><description>&lt;p>F-Droid is an independent, community-sourced app store. Adding a repository to F-Droid makes the apps within it available for download and ensures that you have access to secure app updates.&lt;/p>
+&lt;p>Download F-Droid at &lt;strong>&lt;a href="https://fdroid.org" target="_blank" rel="noopener">f-droid.org&lt;/a>&lt;/strong>.&lt;/p>
+&lt;p>Click on the links below with your mobile device which has F-Droid installed or scan the QR.&lt;/p>
+&lt;h2 id="links">Links:&lt;/h2>
+&lt;ul>
+&lt;li>&lt;u>&lt;strong>&lt;a href="fdroidrepos://molly.im/fdroid/foss/fdroid/repo?fingerprint=5198DAEF37FC23C14D5EE32305B2AF45787BD7DF2034DE33AD302BDB3446DF74">Molly-FOSS&lt;/a>&lt;/strong>&lt;/u>&lt;/li>
+&lt;li>&lt;u>&lt;strong>&lt;a href="fdroidrepos://molly.im/fdroid/repo?fingerprint=3B7E93B1FE32C6E35A93D6DDFC5AFBEB1239A7C6EA6AF20FF33ED53CDC38B04A">Molly&lt;/a>&lt;/strong>&lt;/u>&lt;/li>
+&lt;/ul>
+&lt;h2 id="qrs">QR&amp;rsquo;s&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Molly-FOSS
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../../media/qr/molly-foss-fdroid.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Molly
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../../media/qr/molly-fdroid.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
