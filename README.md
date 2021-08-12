@@ -1,13 +1,17 @@
 # Website for [molly.im](https://molly.im)
 
-Website for the molly project, a hardened signal fork.
+Website for the Molly project, a hardened Signal fork for Android.
 
-- Gives users a breif overview of what molly is and what it does.
-- Gives users F-Droid link and github releases link for Molly.
-- Shows users features of Molly.
-- Shows users Molly's donation links. Bitcoin, Eth, Monero, OpenCollective
+## Content
 
-### Contributions:
-This site was written by Ben Armstead: [benarmstead.co.uk](https://benarmstead.co.uk) for the molly project.
+- Landing page for Molly app
+- How to install the APK from F-Droid and GitHub Releases
+- Molly features showcase
+- Social profiles links
+- How to donate and contribute to the project
+
+## Credits
+
+This site was written by [Ben Armstead](https://benarmstead.co.uk) for the Molly project using the [Hugo](https://gohugo.io/) static site generator.
 
 Thanks to valldrac for all his great work in creating and maintaining Molly!
