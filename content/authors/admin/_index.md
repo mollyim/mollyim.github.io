@@ -25,7 +25,7 @@ Molly is an independent **[Signal](https://github.com/signalapp/Signal-Android)*
 
 
 ### Install
-- <u>**[Molly F-Droid Repo](fdroid/get/)**</u>
+- <u>**[Molly F-Droid Repo](download/fdroid/)**</u>
 - <u>**[Github Releases](https://github.com/mollyim/mollyim-android/releases/latest)**</u>
 
 ### Versions
