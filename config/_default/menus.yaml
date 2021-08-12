@@ -2,9 +2,10 @@ main:
   - name: About
     url: '#about'
     weight: 10
+  - name: Features
+    url: '#skills'
+    weight: 20
   - name: Donate
     url: '#projects'
-    weight: 20
-      #  - name: User Manual
-      #url: 'manual/user'
+    weight: 30
 
