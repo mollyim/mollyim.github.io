@@ -36,7 +36,7 @@ feature:
   icon_pack: fas
   name: RAM Shredding
 
-- description: Automatic backups at daily or weekly interval.
+- description: Automatic backups on a daily or weekly basis.
   icon: trash-restore-alt
   icon_pack: fas
   name: Backup scheduling

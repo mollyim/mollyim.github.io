@@ -33,6 +33,6 @@ Molly is an independent **[Signal](https://github.com/signalapp/Signal-Android)*
 
 **Molly-FOSS** is the community effort to make it 100% free and open-source.
 
-- Join us on <u>**[#mollyim](https://matrix.to/#/#mollyim:matrix.org)**</u> at Matrix
+- Join us at <u>**[#mollyim:matrix.org](https://matrix.to/#/#mollyim:matrix.org)**</u> on Matrix
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" width="240">](fdroid/get/)
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" width="240">](download/fdroid/)
