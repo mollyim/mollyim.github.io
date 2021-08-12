@@ -7,15 +7,15 @@ font_size: M
 
 # SEO
 
-site_type: Person
-local_business_type: 'Personal'
-org_name: 'Molly.im'
-description: 'A hardened version of Signal for Android.'
-twitter: ''
+site_type: Project
+local_business_type: ''
+org_name: 'Molly Instant Messenger'
+description: 'Molly is an independent Signal fork for Android.'
+twitter: 'mollyimapp'
 
 # Contact (edit or remove options as required)
 
-email: info@molly.im
+email: valldrac@molly.im
 
 main_menu:
   enable: true
