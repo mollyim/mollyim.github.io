@@ -35,4 +35,4 @@ Molly is an independent **[Signal](https://github.com/signalapp/Signal-Android)*
 
 - Join us at <u>**[#mollyim:matrix.org](https://matrix.to/#/#mollyim:matrix.org)**</u> on Matrix
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" width="240">](download/fdroid/)
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" style="float:left; margin-bottom:0;" alt="Get it on F-Droid" width="240">](download/fdroid/)
