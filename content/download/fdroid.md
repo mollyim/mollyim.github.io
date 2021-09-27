@@ -2,6 +2,8 @@
 title: Get Molly on F-Droid
 summary: Use F-Droid to install apps and ensure access to app updates.
 profile: false
+aliases:
+  - /install
 ---
 F-Droid is an independent, community-sourced app store. Adding a repository to F-Droid makes the apps within it available for download and ensures that you have access to secure app updates.
 
