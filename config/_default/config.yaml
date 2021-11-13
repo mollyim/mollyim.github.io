@@ -1,6 +1,6 @@
 title: Molly
 baseurl: '/' # Website URL
-copyright: '© {year} Molly.im<br><br>Site made by <a href="https://benarmstead.co.uk">Ben Armstead</a> for the Molly project.<br>https://benarmstead.co.uk/#donate'
+copyright: '© {year} Molly.im<br><br>Site made by <a href="https://benarmstead.co.uk">Ben Armstead</a> for the Molly project.'
 
 defaultContentLanguage: en
 hasCJKLanguage: false
