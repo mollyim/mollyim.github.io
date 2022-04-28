@@ -7,6 +7,6 @@ for direc_name, dirs, files in os.walk("../public"):
         path = os.path.join(direc_name, file_name)
         if(path[-5:] == ".html"):
             data = open(path, "r").read()
+            data = data.replace("\n", "")
             data = data.replace(to_find, "")
-            print(data)
             open(path, "w").write(data)
