@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Molly</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>Molly</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Molly.im
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Molly</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>Molly</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Molly.im
 Site made by Ben Armstead for the Molly project.</copyright><image><url>/media/icon_hub372f8bacdfbc1af3a0d87f922f701cb_20536_512x512_fill_lanczos_center_3.png</url><title>Molly</title><link>/</link></image><item><title/><link>/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/admin/config.yml</guid><description/></item><item><title>Get Molly on F-Droid</title><link>/download/fdroid/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/download/fdroid/</guid><description>&lt;p>F-Droid is an independent, community-sourced app store. Adding a repository to F-Droid makes the apps within it available for download and ensures that you have access to secure app updates.&lt;/p>
 &lt;p>Download F-Droid at &lt;strong>&lt;a href="https://fdroid.org" target="_blank" rel="noopener">f-droid.org&lt;/a>&lt;/strong>.&lt;/p>
 &lt;p>Click on the links below with your mobile device which has F-Droid installed or scan the QR.&lt;/p>
@@ -25,10 +25,5 @@ Site made by Ben Armstead for the Molly project.</copyright><image><url>/media/i
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Monero</title><link>/project/monero/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/project/monero/</guid><description>&lt;p>&lt;code>83VC6TajQYvWpupDYZnr8VCKpv69mR5ZxRqPCjYiYDLQHjz3epcWdGFYkT5cr5G1k6JTkfx76J4WgJ5kTzXNkyv1Ga9fCGu&lt;/code>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../../media/qr/monero.png" alt="" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>Open Collective</title><link>/project/open-collective/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/project/open-collective/</guid><description>&lt;p>&lt;strong>&lt;a href="https://opencollective.com/mollyim" target="_blank" rel="noopener">https://opencollective.com/mollyim&lt;/a>&lt;/strong>&lt;/p>
+&lt;/ul></description></item><item><title>Open Collective</title><link>/project/open-collective/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/project/open-collective/</guid><description>&lt;p>&lt;strong>&lt;a href="https://opencollective.com/mollyim" target="_blank" rel="noopener">https://opencollective.com/mollyim&lt;/a>&lt;/strong>&lt;/p>
 &lt;script>window.location.href = "https://opencollective.com/mollyim";&lt;/script></description></item></channel></rss>
