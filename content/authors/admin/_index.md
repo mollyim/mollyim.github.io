@@ -8,6 +8,9 @@ role: A hardened version of Signal
 
 # Social Networking
 social:
+- icon: mastodon
+  icon_pack: fab
+  link: 'https://fosstodon.org/@mollyim'
 - icon: twitter
   icon_pack: fab
   link: 'https://twitter.com/mollyimapp'
