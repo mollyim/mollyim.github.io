@@ -30,6 +30,7 @@ Molly is an independent **[Signal](https://github.com/signalapp/Signal-Android)*
 ### Install
 - <u>**[Molly F-Droid Repo](download/fdroid/)**</u>
 - <u>**[Github Releases](https://github.com/mollyim/mollyim-android/releases/latest)**</u>
+- <u>**[Accrescent (FOSS only)](https://accrescent.app/)**</u>
 
 ### Versions
 **Molly**, like Signal, uses Google's proprietary code to support some features. 
@@ -39,3 +40,8 @@ Molly is an independent **[Signal](https://github.com/signalapp/Signal-Android)*
 - Join us at <u>**[#mollyim:matrix.org](https://matrix.to/#/#mollyim:matrix.org)**</u> on Matrix
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" style="float:left; margin-bottom:0;" alt="Get it on F-Droid" width="240">](download/fdroid/)
+<a href="https://accrescent.app/app/im.molly.app">
+   <img alt="Get it on Accrescent"
+      src="https://accrescent.app/badges/get-it-on.png"
+      width="240">
+</a>
