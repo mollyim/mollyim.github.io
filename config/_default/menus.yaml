@@ -3,9 +3,9 @@ main:
     url: '#about'
     weight: 10
   - name: Features
-    url: '#skills'
+    url: '#features'
     weight: 20
   - name: Donate
-    url: '#projects'
+    url: '#donate'
     weight: 30
 
