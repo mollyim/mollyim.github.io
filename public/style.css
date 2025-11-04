@@ -138,7 +138,6 @@ div.buttons.flex {
   align-items: center;
 }
 
-
 a.button {
   display: inline-block;
   cursor: pointer;
@@ -424,7 +423,7 @@ footer {
 footer svg.wordmark {
   width: 75px;
   vertical-align: middle;
-  margin: auto auto 0.5rem 0.5ch;
+  margin: 0.5rem auto 0.5rem 0.5ch;
   opacity: 80%;
 
   transition: 250ms ease-in-out;
@@ -444,11 +443,54 @@ footer .credit a {
   color: var(--footer-text);
   border-bottom: 1px dotted var(--footer-text);
   opacity: 100%;
+  transition: 200ms all ease-in-out;
 }
 
 footer .credit a:hover {
   color: var(--footer-hover);
   border-bottom: 1px solid var(--footer-hover);
+}
+
+footer .credit.bahnhof {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+
+footer .credit.bahnhof a {
+  border-bottom: none;
+}
+
+footer .credit.bahnhof a span {
+  color: var(--footer-text);
+  border-bottom: 1px dotted var(--footer-text);
+  transition: 200ms all ease-in-out;
+}
+
+footer .credit.bahnhof .bahnhof-logo {
+  height: 24px;
+  width: auto;
+  margin: 0 0 -5px 0;
+  color: var(--logotype);
+  opacity: 80%;
+  transition: 200ms all ease-in-out;
+}
+
+footer .credit.bahnhof a:hover span {
+  color: var(--footer-hover);
+  border-bottom: 1px solid var(--footer-hover);
+}
+
+footer .credit.bahnhof a:hover .bahnhof-logo {
+  opacity: 100%;
+}
+
+
+footer #copyright {
+  display: block;
+  margin-top: 0.5rem;
+  opacity: 80%;
 }
 
 
